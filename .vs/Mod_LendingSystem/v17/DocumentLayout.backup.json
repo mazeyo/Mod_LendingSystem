@@ -1,0 +1,439 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\frmuserpay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\frmuserpay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\frmtransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\frmtransactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\frmregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\frmregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\frmregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\frmregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\frmtransactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\frmtransactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\frmtransactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\frmtransactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\frmuserpay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\frmuserpay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\frmuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\frmuseraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\frmpay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\frmpay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\frmpay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\frmpay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\lendingsystemdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\lendingsystemdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\DBTables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DBTables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\frmlend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\frmlend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\frmuserchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\frmuserchangepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\frmlend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\frmlend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\frmusertransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\frmusertransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\frmusertransactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\frmusertransactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\frmusertransactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\frmusertransactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\frmusertransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\frmusertransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|c:\\users\\dell\\downloads\\mod_lendingsystem_with_all_the_forms\\mod_lendingsystem\\mod_lendingsystem\\frmuserlend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1508E130-56C8-41EC-8ACC-9889EB0C531D}|Mod_LendingSystem\\Mod_LendingSystem.csproj|solutionrelative:mod_lendingsystem\\frmuserlend.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\DBTables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DBTables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\DBTables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DBTables.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmRegistration.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\FrmRegistration.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmRegistration.cs*",
+              "RelativeToolTip": "Mod_LendingSystem\\FrmRegistration.cs*",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAuwDYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:34:52.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmTransactionHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmTransactionHistory.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\FrmTransactionHistory.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmTransactionHistory.cs*",
+              "RelativeToolTip": "Mod_LendingSystem\\FrmTransactionHistory.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:30:05.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmTransactions.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmTransactions.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\FrmTransactions.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmTransactions.cs*",
+              "RelativeToolTip": "Mod_LendingSystem\\FrmTransactions.cs*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAswEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:27:00.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmUserPay.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmUserPay.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\FrmUserPay.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmUserPay.cs*",
+              "RelativeToolTip": "Mod_LendingSystem\\FrmUserPay.cs*",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAcwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:38:02.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmTransactionHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmTransactionHistory.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\FrmTransactionHistory.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmTransactionHistory.cs [Design]*",
+              "RelativeToolTip": "Mod_LendingSystem\\FrmTransactionHistory.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:37:37.187Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmUserPay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmUserPay.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\FrmUserPay.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmUserPay.cs [Design]*",
+              "RelativeToolTip": "Mod_LendingSystem\\FrmUserPay.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:37:52.889Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmUserAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmUserAccount.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\FrmUserAccount.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmUserAccount.cs*",
+              "RelativeToolTip": "Mod_LendingSystem\\FrmUserAccount.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:38:00.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmRegistration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmRegistration.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\FrmRegistration.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmRegistration.cs [Design]*",
+              "RelativeToolTip": "Mod_LendingSystem\\FrmRegistration.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:37:35.868Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmPay.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmPay.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\FrmPay.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmPay.cs*",
+              "RelativeToolTip": "Mod_LendingSystem\\FrmPay.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwLMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T19:03:27.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmPay.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmPay.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\FrmPay.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmPay.cs [Design]*",
+              "RelativeToolTip": "Mod_LendingSystem\\FrmPay.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:37:34.643Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmChangePassword.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\FrmChangePassword.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmChangePassword.cs*",
+              "RelativeToolTip": "Mod_LendingSystem\\FrmChangePassword.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T18:57:26.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FrmLogIn.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmLogIn.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\FrmLogIn.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmLogIn.cs*",
+              "RelativeToolTip": "Mod_LendingSystem\\FrmLogIn.cs*",
+              "ViewState": "AgIAAEIAAAAAAAAAAAD4v1QAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:48:48.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmLogIn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmLogIn.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\FrmLogIn.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmLogIn.cs [Design]*",
+              "RelativeToolTip": "Mod_LendingSystem\\FrmLogIn.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:37:33.837Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FrmAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmAccount.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\FrmAccount.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmAccount.cs [Design]",
+              "RelativeToolTip": "Mod_LendingSystem\\FrmAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:37:28.402Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmChangePassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmChangePassword.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\FrmChangePassword.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmChangePassword.cs [Design]*",
+              "RelativeToolTip": "Mod_LendingSystem\\FrmChangePassword.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:37:30.935Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LendingSystemDB.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\LendingSystemDB.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\LendingSystemDB.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\LendingSystemDB.cs",
+              "RelativeToolTip": "Mod_LendingSystem\\LendingSystemDB.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:33:12.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DBTables.sql ",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\DBTables.sql",
+              "RelativeDocumentMoniker": "DBTables.sql",
+              "ToolTip": "DBTables.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-11-21T17:25:26.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrmLend.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmLend.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\FrmLend.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmLend.cs [Design]",
+              "RelativeToolTip": "Mod_LendingSystem\\FrmLend.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:37:32.823Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FrmUserChangePass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmUserChangePass.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\FrmUserChangePass.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmUserChangePass.cs [Design]",
+              "RelativeToolTip": "Mod_LendingSystem\\FrmUserChangePass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:37:51.073Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FrmLend.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmLend.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\FrmLend.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmLend.cs",
+              "RelativeToolTip": "Mod_LendingSystem\\FrmLend.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:48:33.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FrmUserTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmUserTransaction.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\FrmUserTransaction.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmUserTransaction.cs",
+              "RelativeToolTip": "Mod_LendingSystem\\FrmUserTransaction.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:05:01.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FrmUserTransactionHistory.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmUserTransactionHistory.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\FrmUserTransactionHistory.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmUserTransactionHistory.cs",
+              "RelativeToolTip": "Mod_LendingSystem\\FrmUserTransactionHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:37:58.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FrmUserTransactionHistory.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmUserTransactionHistory.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\FrmUserTransactionHistory.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmUserTransactionHistory.cs [Design]",
+              "RelativeToolTip": "Mod_LendingSystem\\FrmUserTransactionHistory.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:37:54.559Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FrmUserTransaction.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmUserTransaction.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\FrmUserTransaction.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmUserTransaction.cs [Design]",
+              "RelativeToolTip": "Mod_LendingSystem\\FrmUserTransaction.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T15:03:50.675Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FrmUserLend.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmUserLend.cs",
+              "RelativeDocumentMoniker": "Mod_LendingSystem\\FrmUserLend.cs",
+              "ToolTip": "C:\\Users\\Dell\\Downloads\\Mod_LendingSystem_with_all_the_Forms\\Mod_LendingSystem\\Mod_LendingSystem\\FrmUserLend.cs [Design]",
+              "RelativeToolTip": "Mod_LendingSystem\\FrmUserLend.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T17:37:20.122Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
